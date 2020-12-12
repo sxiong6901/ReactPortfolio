@@ -18,6 +18,7 @@
   "homepage": "https://github.com/sxiong6901/ReactPortfolio#readme",
   "keywords": [],
   "dependencies": {
+    "babel": "^6.23.0",
     "babel-cli": "^6.26.0",
     "babel-preset-react-app": "^3.1.2",
     "package-lock.json": "^1.0.0"
